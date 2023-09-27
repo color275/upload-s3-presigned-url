@@ -1,11 +1,19 @@
 # upload-presigned-url
 
 
-# streamlit run
+# frontend
+## streamlit run
 ``` bash
 streamlit run ui.py
 ```
 ![Alt text](./img/image-1.png)
+
+# infra
+``` bash
+cd tf
+terraform init
+terraform apply
+```
 
 
 # postman test
